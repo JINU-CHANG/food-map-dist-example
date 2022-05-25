@@ -9,7 +9,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: rgb(255, 255, 224);
 }
 
 html {
@@ -25,9 +24,6 @@ html {
   align-items:center;
 }
 
-nav {
-  /*height: 50px;*/
-}
 .nav-container {
   padding: 8px 10px;
   position: relative;
@@ -55,7 +51,7 @@ nav {
 }
 
 .inner{
-  padding: 0 1.5rem;
+  /*padding: 0 1.5rem;*/
 }
 
 .category-container {
@@ -93,7 +89,7 @@ img {
   background-color:transparent;
 }
 .category-item {
-  background-color: rgb(255, 249, 180);
+  background-color: rgb(255, 249, 185);
 }
 .category-item:hover {
   color:orange;
@@ -110,6 +106,7 @@ img {
 
 body {
   height: 100vh;
+  background-color: rgb(253, 254, 218);
 }
 
 nav{
